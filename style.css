@@ -1,0 +1,49 @@
+body{
+    background-color: brown;
+    text-align: center;
+}
+
+
+
+p{
+    text-align: center;
+
+
+}
+h3{
+    color: red;
+}
+h2{
+    color: black;
+}
+h4{
+    color: chartreuse;
+}
+h5{
+    color: rgb(128, 165, 42);
+}
+h6{
+    color: crimson;
+}
+h2{
+    color: aqua;
+}
+h1{
+    color: coral;
+}
+ul{
+    color: blueviolet;
+}
+img{
+    width: 220px;
+    height: 220px;
+}
+
+li{
+    transition: 0.3s;
+}
+
+li:hover{
+    color: rgb(255, 204, 0);
+    font-size: 30px;
+}
